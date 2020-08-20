@@ -1,4 +1,4 @@
-### hello, i'm chad.
+### Hello. I'm Chad.
 
 <img src="https://i.imgur.com/d2L4yjJ.gif"/>
 
