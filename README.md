@@ -1,4 +1,6 @@
-### Hi there 👋
+### hello, i'm chad.
+
+<img src="https://i.imgur.com/d2L4yjJ.gif"/>
 
 <!--
 **losmanzanos/losmanzanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
